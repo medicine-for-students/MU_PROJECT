@@ -221,7 +221,7 @@ header {
 }
 .boldTextFirstPage {
   color:white;
-  font-family:'Pacifico';
+  font-family: 'Pacifico', serif;
   font-size: 120px;
  text-align: center;
   line-height: 400px;
